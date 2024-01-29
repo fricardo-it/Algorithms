@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/bin/Debug/net6.0/Ex4
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/bin/Debug/net6.0/Ex4.deps.json
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/bin/Debug/net6.0/Ex4.runtimeconfig.json
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/bin/Debug/net6.0/Ex4.dll
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/bin/Debug/net6.0/Ex4.pdb
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.dll
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/refint/Ex4.dll
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.pdb
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/Ex4.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign1-Exercise1/Ex4/obj/Debug/net6.0/ref/Ex4.dll

@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/FinalExam/Q1/bin/Debug/net7.0/Q1
+/Users/fricardo/Projects/FinalExam/Q1/bin/Debug/net7.0/Q1.deps.json
+/Users/fricardo/Projects/FinalExam/Q1/bin/Debug/net7.0/Q1.runtimeconfig.json
+/Users/fricardo/Projects/FinalExam/Q1/bin/Debug/net7.0/Q1.dll
+/Users/fricardo/Projects/FinalExam/Q1/bin/Debug/net7.0/Q1.pdb
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.AssemblyInfo.cs
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.dll
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/refint/Q1.dll
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.pdb
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/Q1.genruntimeconfig.cache
+/Users/fricardo/Projects/FinalExam/Q1/obj/Debug/net7.0/ref/Q1.dll

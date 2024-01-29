@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{BAA67C83-6D82-4316-BD2F-D4ABD3470A61}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ex9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex11/Program.cs">
+    <Files>
+      <File FileName="Ex9/Program.cs" Line="24" Column="2" />
+      <File FileName="Ex14/Program.cs" Line="20" Column="2" />
+      <File FileName="Ex13/Program.cs" Line="27" Column="6" />
+      <File FileName="Ex10/Program.cs" Line="13" Column="56" />
+      <File FileName="Ex8/Program.cs" Line="28" Column="6" />
+      <File FileName="Ex12/Program.cs" Line="23" Column="34" />
+      <File FileName="Ex11/Program.cs" Line="14" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assign3-Exercise9" expanded="True" selected="True">
+            <Node name="Ex10" expanded="True" />
+            <Node name="Ex11" expanded="True" />
+            <Node name="Ex12" expanded="True" />
+            <Node name="Ex13" expanded="True" />
+            <Node name="Ex14" expanded="True" />
+            <Node name="Ex8" expanded="True" />
+            <Node name="Ex9" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/bin/Debug/net6.0/Ex19
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/bin/Debug/net6.0/Ex19.deps.json
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/bin/Debug/net6.0/Ex19.runtimeconfig.json
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/bin/Debug/net6.0/Ex19.dll
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/bin/Debug/net6.0/Ex19.pdb
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.dll
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/refint/Ex19.dll
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.pdb
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/Ex19.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex19/obj/Debug/net6.0/ref/Ex19.dll

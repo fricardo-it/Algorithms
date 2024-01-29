@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/bin/Debug/net6.0/Ex29
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/bin/Debug/net6.0/Ex29.deps.json
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/bin/Debug/net6.0/Ex29.runtimeconfig.json
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/bin/Debug/net6.0/Ex29.dll
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/bin/Debug/net6.0/Ex29.pdb
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.dll
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/refint/Ex29.dll
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.pdb
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/Ex29.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign2-Exercise5/Ex29/obj/Debug/net6.0/ref/Ex29.dll

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E44F89AA-F54C-48A7-856D-167A7224C370}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ex47 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex46 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ex44 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex47/Program.cs">
+    <Files>
+      <File FileName="Ex44/Program.cs" Line="76" Column="2" />
+      <File FileName="Ex45/Program.cs" Line="26" Column="31" />
+      <File FileName="Ex46/Program.cs" Line="34" Column="42" />
+      <File FileName="Ex47/Program.cs" Line="191" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assign3-Exercise7" expanded="True">
+            <Node name="Ex44" expanded="True" />
+            <Node name="Ex45" expanded="True" />
+            <Node name="Ex46" expanded="True" />
+            <Node name="Ex47" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fricardo/Projects/Assign3-Exercise7/Ex46/Program.cs" relfile="Ex46/Program.cs" line="20" column="1" />
+      <Breakpoint file="/Users/fricardo/Projects/Assign3-Exercise7/Factor/Program.cs" relfile="Factor/Program.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

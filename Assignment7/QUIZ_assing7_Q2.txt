@@ -1,0 +1,88 @@
+ANALYSIS
+--------
+INPUT
+	DIGITS: LIST[CHAR]
+
+OUTPUT
+	LARGEST_NUMBER: STRING
+
+INTERNAL DATA
+	SUM_N = SUM_N + DIGITS[POSITION] : INTEGER
+	REST = SUM_N % 3 : INTEGER
+	REST_NUMBER = DIGITS[POSITION] % 3 : INTEGER
+	REST_0 : LIST[CHAR];
+	REST_1 : LIST[CHAR];
+	REST_2 : LIST[CHAR];
+	REST_EMPTY : LIST[CHAR];
+	REST_STR : LIST[CHAR];
+
+
+PROCEDURE
+
+- Get the user input the list of digits.
+- Sort this list of digits by descending (put in the LARGEST_NUMBER
+- Sum the digits of the list
+- IF sum_n EQUAL 1
+	DISPLAY ""
+  ELSE
+    IF sum_n EQUAL 0
+	DISPLAY "0"
+  ELSE
+	- Calculate the MODULE of sum_n by 3 (REST)
+		Make a for loop from 0 to size of list of DIGITS, inc in 1
+	        	Calculate the REST_NUMBER (digit by digit of the list inputed)
+
+			IF rest_number EQUAL 0 THEN
+				Put the DIGITS[ACTUAL_POSITION] in REST_0
+			ELSE
+     			IF rest_number  EQUAL 1 then
+				Put the DIGITS[ACTUAL_POSITION] in REST_1
+			ELSA
+	     		IF rest_number  EQUAL 2 then
+				Put the DIGITS[ACTUAL_POSITION] in REST_2
+			ELSE
+				Put the DIGITS[ACTUAL_POSITION] in REST_EMPTY (it is necessary in cases such as 1%3)
+
+
+- Compare:
+
+	IF rest EQUAL 0 THEN
+		DISPLAY the LARGEST_NUMER 
+	ELSE
+		IF rest EQUAL 1 THEN
+			make a for loop from 0 to size of list of rest_1 - 1, inc in 1
+				Put the rest_1[ACTUAL POSITION] in REST_STR
+	ELSE
+		IF rest EQUAL 2 THEN
+			make a for loop from 0 to size of list of rest_2 - 1, inc in 1
+				Put the rest_2 [ACTUAL POSITION] in REST_STR
+		
+- LARGEST_NUMBER = ""
+- SORT rest_str by descending;
+- make a for loop from 0 to size of REST_STR, inc in 1
+	LARGEST_NUMBER = LARGEST_NUMBER + REST_STR[actual position]
+
+DISPLAY the LARGEST_NUMER 
+
+
+------
+
+
+PSEUDOCODE
+--------
+VARIABLES
+	DIGITS: LIST[CHAR]
+	LARGEST_NUMBER: STRING
+	SUM_N = SUM_N + DIGITS[POSITION] : INTEGER
+	REST = SUM_N % 3 : INTEGER
+	REST_NUMBER = DIGITS[POSITION] % 3 : INTEGER
+	REST_0 : LIST[CHAR];
+	REST_1 : LIST[CHAR];
+	REST_2 : LIST[CHAR];
+	REST_EMPTY : LIST[CHAR];
+	REST_STR : LIST[CHAR];
+
+
+START
+
+WRITE "ENTER THE LIST OF DIGITS"

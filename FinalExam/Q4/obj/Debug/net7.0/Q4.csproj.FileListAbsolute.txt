@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/FinalExam/Q4/bin/Debug/net7.0/Q4
+/Users/fricardo/Projects/FinalExam/Q4/bin/Debug/net7.0/Q4.deps.json
+/Users/fricardo/Projects/FinalExam/Q4/bin/Debug/net7.0/Q4.runtimeconfig.json
+/Users/fricardo/Projects/FinalExam/Q4/bin/Debug/net7.0/Q4.dll
+/Users/fricardo/Projects/FinalExam/Q4/bin/Debug/net7.0/Q4.pdb
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.AssemblyInfo.cs
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.dll
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/refint/Q4.dll
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.pdb
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/Q4.genruntimeconfig.cache
+/Users/fricardo/Projects/FinalExam/Q4/obj/Debug/net7.0/ref/Q4.dll

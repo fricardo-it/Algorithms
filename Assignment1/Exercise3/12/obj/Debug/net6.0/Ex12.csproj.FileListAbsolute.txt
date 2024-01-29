@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/bin/Debug/net6.0/Ex12
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/bin/Debug/net6.0/Ex12.deps.json
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/bin/Debug/net6.0/Ex12.runtimeconfig.json
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/bin/Debug/net6.0/Ex12.dll
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/bin/Debug/net6.0/Ex12.pdb
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.dll
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/refint/Ex12.dll
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.pdb
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/Ex12.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign1-Exercise3/Ex12/obj/Debug/net6.0/ref/Ex12.dll

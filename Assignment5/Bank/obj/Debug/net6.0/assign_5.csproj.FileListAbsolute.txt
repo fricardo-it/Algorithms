@@ -1,0 +1,60 @@
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.AssemblyReference.cache
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfoInputs.cache
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfo.cs
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.CoreCompileInputs.cache
+C:/Users/brlop/source/repos/assign_5/assign_5/bin/Debug/net6.0/assign_5.exe
+C:/Users/brlop/source/repos/assign_5/assign_5/bin/Debug/net6.0/assign_5.deps.json
+C:/Users/brlop/source/repos/assign_5/assign_5/bin/Debug/net6.0/assign_5.runtimeconfig.json
+C:/Users/brlop/source/repos/assign_5/assign_5/bin/Debug/net6.0/assign_5.dll
+C:/Users/brlop/source/repos/assign_5/assign_5/bin/Debug/net6.0/assign_5.pdb
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.dll
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/refint/assign_5.dll
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.pdb
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/assign_5.genruntimeconfig.cache
+C:/Users/brlop/source/repos/assign_5/assign_5/obj/Debug/net6.0/ref/assign_5.dll
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/bin/Debug/net6.0/assign_5.exe
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/bin/Debug/net6.0/assign_5.deps.json
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/bin/Debug/net6.0/assign_5.runtimeconfig.json
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/bin/Debug/net6.0/assign_5.dll
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/bin/Debug/net6.0/assign_5.pdb
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.AssemblyReference.cache
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.GeneratedMSBuildEditorConfig.editorconfig
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfoInputs.cache
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfo.cs
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.CoreCompileInputs.cache
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.dll
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/refint/assign_5.dll
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.pdb
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/assign_5.genruntimeconfig.cache
+G:/My Drive/AULAS/LASALLE/Lasalle - Fall2022/ALGORYTHM/assign_5/assign_5/obj/Debug/net6.0/ref/assign_5.dll
+/Users/fricardo/Downloads/assign_5/assign_5/bin/Debug/net6.0/assign_5
+/Users/fricardo/Downloads/assign_5/assign_5/bin/Debug/net6.0/assign_5.deps.json
+/Users/fricardo/Downloads/assign_5/assign_5/bin/Debug/net6.0/assign_5.runtimeconfig.json
+/Users/fricardo/Downloads/assign_5/assign_5/bin/Debug/net6.0/assign_5.dll
+/Users/fricardo/Downloads/assign_5/assign_5/bin/Debug/net6.0/assign_5.pdb
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.AssemblyReference.cache
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfoInputs.cache
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfo.cs
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.CoreCompileInputs.cache
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.dll
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/refint/assign_5.dll
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.pdb
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/assign_5.genruntimeconfig.cache
+/Users/fricardo/Downloads/assign_5/assign_5/obj/Debug/net6.0/ref/assign_5.dll
+/Users/fricardo/Projects/assign_5/assign_5/bin/Debug/net6.0/assign_5
+/Users/fricardo/Projects/assign_5/assign_5/bin/Debug/net6.0/assign_5.deps.json
+/Users/fricardo/Projects/assign_5/assign_5/bin/Debug/net6.0/assign_5.runtimeconfig.json
+/Users/fricardo/Projects/assign_5/assign_5/bin/Debug/net6.0/assign_5.dll
+/Users/fricardo/Projects/assign_5/assign_5/bin/Debug/net6.0/assign_5.pdb
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.AssemblyInfo.cs
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.dll
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/refint/assign_5.dll
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.pdb
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/assign_5.genruntimeconfig.cache
+/Users/fricardo/Projects/assign_5/assign_5/obj/Debug/net6.0/ref/assign_5.dll

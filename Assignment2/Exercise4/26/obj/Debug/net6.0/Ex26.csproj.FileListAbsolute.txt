@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/bin/Debug/net6.0/Ex26
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/bin/Debug/net6.0/Ex26.deps.json
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/bin/Debug/net6.0/Ex26.runtimeconfig.json
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/bin/Debug/net6.0/Ex26.dll
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/bin/Debug/net6.0/Ex26.pdb
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.dll
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/refint/Ex26.dll
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.pdb
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/Ex26.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign2-Exercise4/Ex26/obj/Debug/net6.0/ref/Ex26.dll

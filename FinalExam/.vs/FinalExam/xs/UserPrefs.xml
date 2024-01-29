@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{DF81C202-ABDD-4A49-8A8D-6C95B523F42D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Q1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fricardo/Projects/FinalExam/Q4/Program.cs" relfile="Q4/Program.cs" line="57" column="1" />
+      <Breakpoint file="/Users/fricardo/Projects/FinalExam/Q2/Program.cs" relfile="Q2/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Q4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Q4/Program.cs">
+    <Files>
+      <File FileName="Q1/Program.cs" Line="22" Column="14" />
+      <File FileName="Q2/Program.cs" />
+      <File FileName="Q3/Program.cs" Line="42" Column="32" />
+      <File FileName="Q4/Program.cs" Line="17" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalExam" expanded="True">
+            <Node name="Q1" expanded="True" />
+            <Node name="Q2" expanded="True" />
+            <Node name="Q3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Q4" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Q2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

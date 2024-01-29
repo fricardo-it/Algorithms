@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/FinalExam/Q2/bin/Debug/net7.0/Q2
+/Users/fricardo/Projects/FinalExam/Q2/bin/Debug/net7.0/Q2.deps.json
+/Users/fricardo/Projects/FinalExam/Q2/bin/Debug/net7.0/Q2.runtimeconfig.json
+/Users/fricardo/Projects/FinalExam/Q2/bin/Debug/net7.0/Q2.dll
+/Users/fricardo/Projects/FinalExam/Q2/bin/Debug/net7.0/Q2.pdb
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.AssemblyInfo.cs
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.dll
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/refint/Q2.dll
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.pdb
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/Q2.genruntimeconfig.cache
+/Users/fricardo/Projects/FinalExam/Q2/obj/Debug/net7.0/ref/Q2.dll

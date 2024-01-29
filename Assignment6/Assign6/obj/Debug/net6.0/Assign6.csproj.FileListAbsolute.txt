@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign6/Assign6/bin/Debug/net6.0/Assign6
+/Users/fricardo/Projects/Assign6/Assign6/bin/Debug/net6.0/Assign6.deps.json
+/Users/fricardo/Projects/Assign6/Assign6/bin/Debug/net6.0/Assign6.runtimeconfig.json
+/Users/fricardo/Projects/Assign6/Assign6/bin/Debug/net6.0/Assign6.dll
+/Users/fricardo/Projects/Assign6/Assign6/bin/Debug/net6.0/Assign6.pdb
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.dll
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/refint/Assign6.dll
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.pdb
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/Assign6.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign6/Assign6/obj/Debug/net6.0/ref/Assign6.dll

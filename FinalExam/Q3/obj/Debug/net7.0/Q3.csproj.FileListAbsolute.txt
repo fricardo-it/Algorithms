@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/FinalExam/Q3/bin/Debug/net7.0/Q3
+/Users/fricardo/Projects/FinalExam/Q3/bin/Debug/net7.0/Q3.deps.json
+/Users/fricardo/Projects/FinalExam/Q3/bin/Debug/net7.0/Q3.runtimeconfig.json
+/Users/fricardo/Projects/FinalExam/Q3/bin/Debug/net7.0/Q3.dll
+/Users/fricardo/Projects/FinalExam/Q3/bin/Debug/net7.0/Q3.pdb
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.AssemblyInfo.cs
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.dll
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/refint/Q3.dll
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.pdb
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/Q3.genruntimeconfig.cache
+/Users/fricardo/Projects/FinalExam/Q3/obj/Debug/net7.0/ref/Q3.dll

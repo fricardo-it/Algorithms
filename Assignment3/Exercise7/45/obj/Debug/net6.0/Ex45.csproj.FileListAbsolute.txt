@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/bin/Debug/net6.0/Ex45
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/bin/Debug/net6.0/Ex45.deps.json
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/bin/Debug/net6.0/Ex45.runtimeconfig.json
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/bin/Debug/net6.0/Ex45.dll
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/bin/Debug/net6.0/Ex45.pdb
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.dll
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/refint/Ex45.dll
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.pdb
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/Ex45.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign3-Exercise7/Ex45/obj/Debug/net6.0/ref/Ex45.dll

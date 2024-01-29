@@ -1,0 +1,15 @@
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/bin/Debug/net6.0/EX3
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/bin/Debug/net6.0/EX3.deps.json
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/bin/Debug/net6.0/EX3.runtimeconfig.json
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/bin/Debug/net6.0/EX3.dll
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/bin/Debug/net6.0/EX3.pdb
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.csproj.AssemblyReference.cache
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.AssemblyInfoInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.AssemblyInfo.cs
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.csproj.CoreCompileInputs.cache
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.dll
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/refint/EX3.dll
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.pdb
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/EX3.genruntimeconfig.cache
+/Users/fricardo/Projects/Assign1-Exercise1/EX3/obj/Debug/net6.0/ref/EX3.dll
